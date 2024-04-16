@@ -1,0 +1,6 @@
+D:\preuzmi\virutel\Vezbe5\Common\bin\Debug\Common.dll
+D:\preuzmi\virutel\Vezbe5\Common\bin\Debug\Common.pdb
+D:\preuzmi\virutel\Vezbe5\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\preuzmi\virutel\Vezbe5\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\preuzmi\virutel\Vezbe5\Common\obj\Debug\Common.dll
+D:\preuzmi\virutel\Vezbe5\Common\obj\Debug\Common.pdb

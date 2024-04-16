@@ -1,0 +1,3 @@
+Novi tekst koji treba da se smesti u fajl1. Kako bismo testirali funkciju 
+Sledeci paragraf koji se nalazi u fajlu
+Treci paragraf fajla za testiranje

@@ -1,0 +1,7 @@
+D:\preuzmi\virutel\Vezbe 4\Zadatak2\bin\Debug\Zadatak2.exe.config
+D:\preuzmi\virutel\Vezbe 4\Zadatak2\bin\Debug\Zadatak2.exe
+D:\preuzmi\virutel\Vezbe 4\Zadatak2\bin\Debug\Zadatak2.pdb
+D:\preuzmi\virutel\Vezbe 4\Zadatak2\obj\Debug\Zadatak2.csprojAssemblyReference.cache
+D:\preuzmi\virutel\Vezbe 4\Zadatak2\obj\Debug\Zadatak2.csproj.CoreCompileInputs.cache
+D:\preuzmi\virutel\Vezbe 4\Zadatak2\obj\Debug\Zadatak2.exe
+D:\preuzmi\virutel\Vezbe 4\Zadatak2\obj\Debug\Zadatak2.pdb

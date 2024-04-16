@@ -1,0 +1,10 @@
+D:\preuzmi\virutel\Vezbe5\Service\bin\Debug\Service.exe.config
+D:\preuzmi\virutel\Vezbe5\Service\bin\Debug\Service.exe
+D:\preuzmi\virutel\Vezbe5\Service\bin\Debug\Service.pdb
+D:\preuzmi\virutel\Vezbe5\Service\bin\Debug\Common.dll
+D:\preuzmi\virutel\Vezbe5\Service\bin\Debug\Common.pdb
+D:\preuzmi\virutel\Vezbe5\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\preuzmi\virutel\Vezbe5\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\preuzmi\virutel\Vezbe5\Service\obj\Debug\Service.csproj.CopyComplete
+D:\preuzmi\virutel\Vezbe5\Service\obj\Debug\Service.exe
+D:\preuzmi\virutel\Vezbe5\Service\obj\Debug\Service.pdb
