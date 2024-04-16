@@ -1,0 +1,6 @@
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Common\bin\Debug\Common.dll
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Common\bin\Debug\Common.pdb
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.dll
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.pdb

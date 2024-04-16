@@ -1,0 +1,10 @@
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\bin\Debug\Client.exe.config
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\bin\Debug\Client.exe
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\bin\Debug\Client.pdb
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\bin\Debug\Common.dll
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\bin\Debug\Common.pdb
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CopyComplete
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.exe
+D:\preuzmi\virutel\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.pdb
